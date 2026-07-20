@@ -260,7 +260,7 @@ def run_pipeline(args: argparse.Namespace) -> list[dict[str, Any]]:
     tmap_success_rows = add_tmap_routes(huff_candidates, args, app_key)
     calculate_final_probabilities(tmap_success_rows, args)
     pareto_rows = mark_pareto_candidates(tmap_success_rows)
-    final_rows = final_recommendations(tmap_success_rows)
+    final_rows = [add_transport_cost(row) for row in final_recommendations(tmap_success_rows)]
 
     write_csv([huff_row(row) for row in huff_candidates], Path(args.huff_output), HUFF_COLUMNS)
     write_final_with_transport_cost(final_rows, Path(args.final_output))
