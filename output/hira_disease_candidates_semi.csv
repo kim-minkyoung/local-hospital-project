@@ -1,0 +1,536 @@
+﻿ykiho,hospital_name,hospital_type,latitude,longitude,disease,matched_reason
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEyMjIjODEjJDEjJDIjJDgz,경희대학교병원,상급종합,37.5941195,127.0518520,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEyMjIjODEjJDEjJDIjJDgz,경희대학교병원,상급종합,37.5941195,127.0518520,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEyMjIjODEjJDEjJDIjJDgz,경희대학교병원,상급종합,37.5941195,127.0518520,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입 포함
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNjEjJDEjJDQjJDgz,계명대학교동산병원,상급종합,35.8538856,128.4801315,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNjEjJDEjJDQjJDgz,계명대학교동산병원,상급종합,35.8538856,128.4801315,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNjEjJDEjJDQjJDgz,계명대학교동산병원,상급종합,35.8538856,128.4801315,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQ0NjEwMDIjNjEjJDEjJDAjJDgz,고려대학교의과대학부속구로병원,상급종합,37.4920520,126.8848701,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQ0NjEwMDIjNjEjJDEjJDAjJDgz,고려대학교의과대학부속구로병원,상급종합,37.4920520,126.8848701,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQzNjEwMDIjNTEjJDEjJDIjJDgz,고려대학교의과대학부속안산병원,상급종합,37.3185144,126.8249033,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQzNjEwMDIjNTEjJDEjJDIjJDgz,고려대학교의과대학부속안산병원,상급종합,37.3185144,126.8249033,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQzNjEwMDIjNTEjJDEjJDIjJDgz,고려대학교의과대학부속안산병원,상급종합,37.3185144,126.8249033,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjODEjJDEjJDYjJDgz,고신대학교복음병원,상급종합,35.0809636,129.0139595,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjODEjJDEjJDYjJDgz,고신대학교복음병원,상급종합,35.0809636,129.0139595,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjODEjJDEjJDYjJDgz,고신대학교복음병원,상급종합,35.0809636,129.0139595,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQ0NjEwMDIjODEjJDEjJDYjJDgz,단국대학교의과대학부속병원,상급종합,36.8415904,127.1725750,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQ0NjEwMDIjODEjJDEjJDYjJDgz,단국대학교의과대학부속병원,상급종합,36.8415904,127.1725750,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQ0NjEwMDIjODEjJDEjJDYjJDgz,단국대학교의과대학부속병원,상급종합,36.8415904,127.1725750,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjEwMDIjNTEjJDEjJDIjJDgz,대구가톨릭대학교병원,상급종합,35.8436078,128.5679969,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjEwMDIjNTEjJDEjJDIjJDgz,대구가톨릭대학교병원,상급종합,35.8436078,128.5679969,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjEwMDIjNTEjJDEjJDIjJDgz,대구가톨릭대학교병원,상급종합,35.8436078,128.5679969,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQ0NjEwMDIjNDEjJDEjJDQjJDgz,동아대학교병원,상급종합,35.1201682,129.0175391,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQ0NjEwMDIjNDEjJDEjJDQjJDgz,동아대학교병원,상급종합,35.1201682,129.0175391,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQ0NjEwMDIjNDEjJDEjJDQjJDgz,동아대학교병원,상급종합,35.1201682,129.0175391,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술 포함
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNDEjJDEjJDgjJDgz,부산대학교병원,상급종합,35.1008477,129.0188032,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNDEjJDEjJDgjJDgz,부산대학교병원,상급종합,35.1008477,129.0188032,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNDEjJDEjJDgjJDgz,부산대학교병원,상급종합,35.1008477,129.0188032,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjEwMDIjNTEjJDEjJDYjJDgz,분당서울대학교병원,상급종합,37.3516694,127.1234066,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjEwMDIjNTEjJDEjJDYjJDgz,분당서울대학교병원,상급종합,37.3516694,127.1234066,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjEwMDIjNTEjJDEjJDYjJDgz,분당서울대학교병원,상급종합,37.3516694,127.1234066,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQzNjEwMDIjODEjJDEjJDIjJDgz,삼성서울병원,상급종합,37.4882977,127.0851508,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQzNjEwMDIjODEjJDEjJDIjJDgz,삼성서울병원,상급종합,37.4882977,127.0851508,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQzNjEwMDIjODEjJDEjJDIjJDgz,삼성서울병원,상급종합,37.4882977,127.0851508,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjE4MzIjODEjJDEjJDYjJDgz,서울대학교병원,상급종합,37.5797151,126.9990168,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjE4MzIjODEjJDEjJDYjJDgz,서울대학교병원,상급종합,37.5797151,126.9990168,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQzNjEyMjIjNzEjJDEjJDgjJDgz,순천향대학교부속부천병원,상급종합,37.4986998,126.7629626,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQzNjEyMjIjNzEjJDEjJDgjJDgz,순천향대학교부속부천병원,상급종합,37.4986998,126.7629626,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQzNjEyMjIjNzEjJDEjJDgjJDgz,순천향대학교부속부천병원,상급종합,37.4986998,126.7629626,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjE4MzIjNTEjJDEjJDYjJDgz,아주대학교병원,상급종합,37.2794612,127.0476837,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjE4MzIjNTEjJDEjJDYjJDgz,아주대학교병원,상급종합,37.2794612,127.0476837,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjE4MzIjNTEjJDEjJDYjJDgz,아주대학교병원,상급종합,37.2794612,127.0476837,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치 포함
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjE0ODEjODEjJDEjJDYjJDgz,양산부산대학교병원,상급종합,35.3281500,129.0057274,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjE0ODEjODEjJDEjJDYjJDgz,양산부산대학교병원,상급종합,35.3281500,129.0057274,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjE0ODEjODEjJDEjJDYjJDgz,양산부산대학교병원,상급종합,35.3281500,129.0057274,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjNjEjJDEjJDQjJDgz,연세대학교 원주세브란스기독병원,상급종합,37.3490013,127.9456638,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjNjEjJDEjJDQjJDgz,연세대학교 원주세브란스기독병원,상급종합,37.3490013,127.9456638,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjNjEjJDEjJDQjJDgz,연세대학교 원주세브란스기독병원,상급종합,37.3490013,127.9456638,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjE0ODEjNTEjJDEjJDYjJDgz,연세대학교의과대학 강남세브란스병원,상급종합,37.4929296,127.0462683,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjE0ODEjNTEjJDEjJDYjJDgz,연세대학교의과대학 강남세브란스병원,상급종합,37.4929296,127.0462683,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjE0ODEjNTEjJDEjJDYjJDgz,연세대학교의과대학 강남세브란스병원,상급종합,37.4929296,127.0462683,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE0ODEjNjEjJDEjJDgjJDgz,연세대학교의과대학세브란스병원,상급종합,37.5623446,126.9408265,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE0ODEjNjEjJDEjJDgjJDgz,연세대학교의과대학세브란스병원,상급종합,37.5623446,126.9408265,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE0ODEjNjEjJDEjJDgjJDgz,연세대학교의과대학세브란스병원,상급종합,37.5623446,126.9408265,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjE0ODEjODEjJDEjJDYjJDgz,영남대학교병원,상급종합,35.8481070,128.5820500,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjE0ODEjODEjJDEjJDYjJDgz,영남대학교병원,상급종합,35.8481070,128.5820500,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjE0ODEjODEjJDEjJDYjJDgz,영남대학교병원,상급종합,35.8481070,128.5820500,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEyMjIjNDEjJDEjJDgjJDgz,원광대학교병원,상급종합,35.9646389,126.9595793,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEyMjIjNDEjJDEjJDgjJDgz,원광대학교병원,상급종합,35.9646389,126.9595793,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEyMjIjNDEjJDEjJDgjJDgz,원광대학교병원,상급종합,35.9646389,126.9595793,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjE0ODEjODEjJDEjJDYjJDgz,의료법인 길의료재단 길병원,상급종합,37.4521710,126.7092258,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjE0ODEjODEjJDEjJDYjJDgz,의료법인 길의료재단 길병원,상급종합,37.4521710,126.7092258,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjE0ODEjODEjJDEjJDYjJDgz,의료법인 길의료재단 길병원,상급종합,37.4521710,126.7092258,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQyNjEwMDIjNjEjJDEjJDQjJDgz,이화여자대학교의과대학부속목동병원,상급종합,37.5366020,126.8862043,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQyNjEwMDIjNjEjJDEjJDQjJDgz,이화여자대학교의과대학부속목동병원,상급종합,37.5366020,126.8862043,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQyNjEwMDIjNjEjJDEjJDQjJDgz,이화여자대학교의과대학부속목동병원,상급종합,37.5366020,126.8862043,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·심장질환자 재택의료 포함
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEyMjIjNTEjJDEjJDYjJDgz,인제대학교부산백병원,상급종합,35.1461809,129.0208925,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEyMjIjNTEjJDEjJDYjJDgz,인제대학교부산백병원,상급종합,35.1461809,129.0208925,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEyMjIjNTEjJDEjJDYjJDgz,인제대학교부산백병원,상급종합,35.1461809,129.0208925,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjEwMDIjNjEjJDEjJDAjJDgz,인하대학교의과대학부속병원,상급종합,37.4586786,126.6340954,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjEwMDIjNjEjJDEjJDAjJDgz,인하대학교의과대학부속병원,상급종합,37.4586786,126.6340954,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjEwMDIjNjEjJDEjJDAjJDgz,인하대학교의과대학부속병원,상급종합,37.4586786,126.6340954,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjE0ODEjNDEjJDEjJDQjJDgz,재단법인아산사회복지재단 서울아산병원,상급종합,37.5265762,127.1079350,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjE0ODEjNDEjJDEjJDQjJDgz,재단법인아산사회복지재단 서울아산병원,상급종합,37.5265762,127.1079350,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjE0ODEjNDEjJDEjJDQjJDgz,재단법인아산사회복지재단 서울아산병원,상급종합,37.5265762,127.1079350,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEwMDIjNTEjJDEjJDYjJDgz,전남대학교병원,상급종합,35.1418094,126.9215805,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEwMDIjNTEjJDEjJDYjJDgz,전남대학교병원,상급종합,35.1418094,126.9215805,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEwMDIjNTEjJDEjJDYjJDgz,전남대학교병원,상급종합,35.1418094,126.9215805,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입·심실 보조장치 포함
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEwMDIjNDEjJDEjJDQjJDgz,전북대학교병원,상급종합,35.8470974,127.1411626,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEwMDIjNDEjJDEjJDQjJDgz,전북대학교병원,상급종합,35.8470974,127.1411626,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEwMDIjNDEjJDEjJDQjJDgz,전북대학교병원,상급종합,35.8470974,127.1411626,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNDEjJDEjJDgjJDgz,조선대학교병원,상급종합,35.1390537,126.9261467,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNDEjJDEjJDgjJDgz,조선대학교병원,상급종합,35.1390537,126.9261467,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNDEjJDEjJDgjJDgz,조선대학교병원,상급종합,35.1390537,126.9261467,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEwMDIjNTEjJDEjJDIjJDgz,중앙대학교병원,상급종합,37.5067481,126.9607839,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEwMDIjNTEjJDEjJDIjJDgz,중앙대학교병원,상급종합,37.5067481,126.9607839,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEwMDIjNTEjJDEjJDIjJDgz,중앙대학교병원,상급종합,37.5067481,126.9607839,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEwMDIjNjEjJDEjJDgjJDgz,충남대학교병원,상급종합,36.3169080,127.4153630,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEwMDIjNjEjJDEjJDgjJDgz,충남대학교병원,상급종합,36.3169080,127.4153630,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEwMDIjNjEjJDEjJDgjJDgz,충남대학교병원,상급종합,36.3169080,127.4153630,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjODEjJDEjJDIjJDgz,충북대학교병원,상급종합,36.6242237,127.4614843,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjODEjJDEjJDIjJDgz,충북대학교병원,상급종합,36.6242237,127.4614843,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjODEjJDEjJDIjJDgz,충북대학교병원,상급종합,36.6242237,127.4614843,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjEyMjIjNzEjJDEjJDgjJDgz,칠곡경북대학교병원,상급종합,35.9564207,128.5646727,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjEyMjIjNzEjJDEjJDgjJDgz,칠곡경북대학교병원,상급종합,35.9564207,128.5646727,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjEyMjIjNzEjJDEjJDgjJDgz,칠곡경북대학교병원,상급종합,35.9564207,128.5646727,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQzNjE0ODEjNjEjJDEjJDQjJDgz,학교법인 건양교육재단 건양대학교병원,상급종합,36.3066420,127.3426130,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQzNjE0ODEjNjEjJDEjJDQjJDgz,학교법인 건양교육재단 건양대학교병원,상급종합,36.3066420,127.3426130,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQzNjE0ODEjNjEjJDEjJDQjJDgz,학교법인 건양교육재단 건양대학교병원,상급종합,36.3066420,127.3426130,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEwMDIjNzEjJDEjJDgjJDgz,학교법인 고려중앙학원 고려대학교의과대학부속병원(안암병원),상급종합,37.5870165,127.0263537,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEwMDIjNzEjJDEjJDgjJDgz,학교법인 고려중앙학원 고려대학교의과대학부속병원(안암병원),상급종합,37.5870165,127.0263537,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEwMDIjNzEjJDEjJDgjJDgz,학교법인 고려중앙학원 고려대학교의과대학부속병원(안암병원),상급종합,37.5870165,127.0263537,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE4MzIjNDEjJDEjJDgjJDgz,학교법인 울산공업학원 울산대학교병원,상급종합,35.5200702,129.4289116,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE4MzIjNDEjJDEjJDgjJDgz,학교법인 울산공업학원 울산대학교병원,상급종합,35.5200702,129.4289116,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE4MzIjNDEjJDEjJDgjJDgz,학교법인 울산공업학원 울산대학교병원,상급종합,35.5200702,129.4289116,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjE4MzIjODEjJDEjJDIjJDgz,학교법인가톨릭학원가톨릭대학교서울성모병원,상급종합,37.5009444,127.0051154,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjE4MzIjODEjJDEjJDIjJDgz,학교법인가톨릭학원가톨릭대학교서울성모병원,상급종합,37.5009444,127.0051154,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjE4MzIjODEjJDEjJDIjJDgz,학교법인가톨릭학원가톨릭대학교서울성모병원,상급종합,37.5009444,127.0051154,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjEyMjIjNjEjJDEjJDQjJDgz,학교법인성균관대학삼성창원병원,상급종합,35.2424957,128.5923771,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjEyMjIjNjEjJDEjJDQjJDgz,학교법인성균관대학삼성창원병원,상급종합,35.2424957,128.5923771,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjEyMjIjNjEjJDEjJDQjJDgz,학교법인성균관대학삼성창원병원,상급종합,35.2424957,128.5923771,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjEyMjIjNzEjJDEjJDgjJDgz,한림대학교성심병원,상급종합,37.3917575,126.9620529,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjEyMjIjNzEjJDEjJDgjJDgz,한림대학교성심병원,상급종합,37.3917575,126.9620529,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjEyMjIjNzEjJDEjJDgjJDgz,한림대학교성심병원,상급종합,37.3917575,126.9620529,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQ0NjE0ODEjNjEjJDEjJDAjJDgz,한양대학교병원,상급종합,37.5596569,127.0441339,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQ0NjE0ODEjNjEjJDEjJDAjJDgz,한양대학교병원,상급종합,37.5596569,127.0441339,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQ0NjE0ODEjNjEjJDEjJDAjJDgz,한양대학교병원,상급종합,37.5596569,127.0441339,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술 포함
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQ0NjEwMDIjODEjJDEjJDIjJDgz,화순전남대학교병원,상급종합,35.0594333,127.0025000,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQ0NjEwMDIjODEjJDEjJDIjJDgz,화순전남대학교병원,상급종합,35.0594333,127.0025000,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQ0NjEwMDIjODEjJDEjJDIjJDgz,화순전남대학교병원,상급종합,35.0594333,127.0025000,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQyNjEwMDIjNDEjJDEjJDgjJDgz,(의)나사렛의료재단 나사렛국제병원,종합병원,37.4079580,126.6704928,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQ0NjEwMDIjNjEjJDEjJDAjJDgz,(의)성세의료재단 뉴성민병원,종합병원,37.5097753,126.6698519,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQzNjEwMDIjNTEjJDEjJDYjJDgz,(의)영문의료재단 다보스병원,종합병원,37.2314882,127.2114647,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQ0NjEwMDIjNDEjJDEjJDgjJDgz,(재)미리내천주성삼성직수도회천주성삼병원,종합병원,35.8402518,128.7057102,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQ0NjEwMDIjNDEjJDEjJDgjJDgz,(재)미리내천주성삼성직수도회천주성삼병원,종합병원,35.8402518,128.7057102,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjEwMDIjNDEjJDEjJDgjJDgz,KS병원,종합병원,35.1979238,126.8331484,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjEwMDIjNDEjJDEjJDgjJDgz,KS병원,종합병원,35.1979238,126.8331484,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQ0NjE0ODEjNjEjJDEjJDgjJDgz,가톨릭관동대학교 국제성모병원,종합병원,37.5423431,126.6835685,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQ0NjE0ODEjNjEjJDEjJDgjJDgz,가톨릭관동대학교 국제성모병원,종합병원,37.5423431,126.6835685,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQ0NjE0ODEjNjEjJDEjJDgjJDgz,가톨릭관동대학교 국제성모병원,종합병원,37.5423431,126.6835685,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjODEjJDEjJDIjJDgz,가톨릭대학교 여의도성모병원,종합병원,37.5183253,126.9367517,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjODEjJDEjJDIjJDgz,가톨릭대학교 여의도성모병원,종합병원,37.5183253,126.9367517,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjODEjJDEjJDIjJDgz,가톨릭대학교 여의도성모병원,종합병원,37.5183253,126.9367517,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEwMDIjNDEjJDEjJDQjJDgz,가톨릭대학교 은평성모병원,종합병원,37.6334945,126.9161912,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEwMDIjNDEjJDEjJDQjJDgz,가톨릭대학교 은평성모병원,종합병원,37.6334945,126.9161912,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEwMDIjNDEjJDEjJDQjJDgz,가톨릭대학교 은평성모병원,종합병원,37.6334945,126.9161912,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEwMDIjNDEjJDEjJDQjJDgz,가톨릭대학교부천성모병원,종합병원,37.4871165,126.7924166,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEwMDIjNDEjJDEjJDQjJDgz,가톨릭대학교부천성모병원,종합병원,37.4871165,126.7924166,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEwMDIjNDEjJDEjJDQjJDgz,가톨릭대학교부천성모병원,종합병원,37.4871165,126.7924166,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQ0NjEwMDIjNjEjJDEjJDQjJDgz,가톨릭대학교의정부성모병원,종합병원,37.7587045,127.0777625,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQ0NjEwMDIjNjEjJDEjJDQjJDgz,가톨릭대학교의정부성모병원,종합병원,37.7587045,127.0777625,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQ0NjEwMDIjNjEjJDEjJDQjJDgz,가톨릭대학교의정부성모병원,종합병원,37.7587045,127.0777625,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQyNjE0ODEjNzEjJDEjJDgjJDgz,강남베드로병원,종합병원,37.4856196,127.0396045,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQyNjEwMDIjNjEjJDEjJDgjJDgz,강남병원,종합병원,37.2736747,127.1114342,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ5OSQzNjE4MzIjNDEjJDEjJDQjJDgz,강동경희대학교병원,종합병원,37.5535360,127.1576732,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ5OSQzNjE4MzIjNDEjJDEjJDQjJDgz,강동경희대학교병원,종합병원,37.5535360,127.1576732,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ5OSQzNjE4MzIjNDEjJDEjJDQjJDgz,강동경희대학교병원,종합병원,37.5535360,127.1576732,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입 포함
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEwMDIjNTEjJDEjJDYjJDgz,강원대학교병원,종합병원,37.8751611,127.7448909,암,방사선종양학과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEwMDIjNTEjJDEjJDYjJDgz,강원대학교병원,종합병원,37.8751611,127.7448909,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEwMDIjNTEjJDEjJDYjJDgz,강원대학교병원,종합병원,37.8751611,127.7448909,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEyMjIjNDEjJDEjJDQjJDgz,강원특별자치도삼척의료원,종합병원,37.4400223,129.1705232,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEyMjIjNDEjJDEjJDQjJDgz,강원특별자치도삼척의료원,종합병원,37.4400223,129.1705232,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjE0ODEjNjEjJDEjJDgjJDgz,강원특별자치도원주의료원,종합병원,37.3326080,127.9492250,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjEwMDIjNzEjJDEjJDgjJDgz,강일병원,종합병원,35.2567027,128.8696111,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjE4MzIjNjEjJDEjJDgjJDgz,건국대학교 충주병원,종합병원,36.9789801,127.9288169,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjE4MzIjNjEjJDEjJDgjJDgz,건국대학교 충주병원,종합병원,36.9789801,127.9288169,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQzNjE4MzIjNDEjJDEjJDQjJDgz,검단탑병원,종합병원,37.5924835,126.6711791,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQ0NjE0ODEjODEjJDEjJDIjJDgz,경기도의료원 수원병원,종합병원,37.2918917,126.9963375,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQzNjE0ODEjNDEjJDEjJDgjJDgz,경기도의료원 안성병원,종합병원,37.0173296,127.2603859,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjEyMjIjNjEjJDEjJDQjJDgz,경기도의료원파주병원,종합병원,37.7550649,126.7801502,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjODEjJDEjJDYjJDgz,경상남도마산의료원,종합병원,35.1992371,128.5655967,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQ0NjEwMDIjNjEjJDEjJDAjJDgz,경상북도김천의료원,종합병원,36.1227232,128.1264391,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQzNjEwMDIjNDEjJDEjJDgjJDgz,경상북도안동의료원,종합병원,36.5682206,128.7321116,암,방사선종양학과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQzNjEwMDIjNDEjJDEjJDgjJDgz,경상북도안동의료원,종합병원,36.5682206,128.7321116,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjE0ODEjNDEjJDEjJDgjJDgz,경상북도포항의료원,종합병원,36.0348814,129.3549409,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEyMjIjODEjJDEjJDIjJDgz,광명성애병원,종합병원,37.4736659,126.8713502,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjNDEjJDEjJDQjJDgz,광주기독병원,종합병원,35.1366650,126.9118749,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjNDEjJDEjJDQjJDgz,광주기독병원,종합병원,35.1366650,126.9118749,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjNDEjJDEjJDQjJDgz,광주기독병원,종합병원,35.1366650,126.9118749,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQ0NjE0ODEjNzEjJDEjJDgjJDgz,광주병원,종합병원,35.1789030,126.9281408,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQ0NjE0ODEjNzEjJDEjJDgjJDgz,광주병원,종합병원,35.1789030,126.9281408,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjE4MzIjNzEjJDEjJDgjJDgz,광주보훈병원,종합병원,35.2079032,126.8496719,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjE4MzIjNzEjJDEjJDgjJDgz,광주보훈병원,종합병원,35.2079032,126.8496719,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQzNjEyMjIjNDEjJDEjJDgjJDgz,광주센트럴병원,종합병원,35.1857756,126.8291069,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQzNjEyMjIjNDEjJDEjJDgjJDgz,광주센트럴병원,종합병원,35.1857756,126.8291069,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjEwMDIjNDEjJDEjJDQjJDgz,광주씨티병원,종합병원,35.1177147,126.8994848,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjEwMDIjNDEjJDEjJDQjJDgz,광주씨티병원,종합병원,35.1177147,126.8994848,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQyNjE0ODEjNDEjJDEjJDgjJDgz,광주일곡병원,종합병원,35.2028543,126.8976135,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQzNjEwMDIjNDEjJDEjJDgjJDgz,광주한국병원,종합병원,35.1562165,126.8688163,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQ0NjE0ODEjODEjJDEjJDYjJDgz,광주현대병원,종합병원,35.1856760,126.8979250,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQ0NjE0ODEjNjEjJDEjJDQjJDgz,구로성심병원,종합병원,37.4996715,126.8664159,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQ0NjE0ODEjNjEjJDEjJDQjJDgz,구로성심병원,종합병원,37.4996715,126.8664159,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjEyMjIjNjEjJDEjJDAjJDgz,구미강동병원,종합병원,36.0962390,128.4228695,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjEyMjIjNzEjJDEjJDgjJDgz,구포성심병원,종합병원,35.2097133,129.0047235,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQzNjEwMDIjODEjJDEjJDYjJDgz,국군수도병원,종합병원,37.3923789,127.1490674,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQzNjEwMDIjODEjJDEjJDYjJDgz,국군수도병원,종합병원,37.3923789,127.1490674,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQzNjEwMDIjODEjJDEjJDYjJDgz,국군수도병원,종합병원,37.3923789,127.1490674,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQzNjEyMjIjODEjJDEjJDIjJDgz,국립소방병원,종합병원,36.9043425,127.5526368,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQzNjE0ODEjNDEjJDEjJDgjJDgz,국립암센터,종합병원,37.6632301,126.7834097,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQzNjE0ODEjNDEjJDEjJDgjJDgz,국립암센터,종합병원,37.6632301,126.7834097,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQzNjE0ODEjNDEjJDEjJDgjJDgz,국립암센터,종합병원,37.6632301,126.7834097,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQyNjEwMDIjODEjJDEjJDIjJDgz,국립중앙의료원,종합병원,37.5672137,127.0056709,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQyNjEwMDIjODEjJDEjJDIjJDgz,국립중앙의료원,종합병원,37.5672137,127.0056709,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQyNjEwMDIjODEjJDEjJDIjJDgz,국립중앙의료원,종합병원,37.5672137,127.0056709,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjE4MzIjODEjJDEjJDIjJDgz,국민건강보험공단일산병원,종합병원,37.6454754,126.7930401,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjE4MzIjODEjJDEjJDIjJDgz,국민건강보험공단일산병원,종합병원,37.6454754,126.7930401,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjE4MzIjODEjJDEjJDIjJDgz,국민건강보험공단일산병원,종합병원,37.6454754,126.7930401,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQyNjEyMjIjNDEjJDEjJDQjJDgz,근로복지공단안산병원,종합병원,37.3167269,126.8741390,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjE4MzIjNTEjJDEjJDIjJDgz,나사렛종합병원,종합병원,35.8147014,128.5251021,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjE4MzIjNTEjJDEjJDIjJDgz,나사렛종합병원,종합병원,35.8147014,128.5251021,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQzNjEyMjIjNTEjJDEjJDIjJDgz,나주종합병원,종합병원,35.0363158,126.7213974,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQyNjEwMDIjNjEjJDEjJDgjJDgz,노원을지대학교병원,종합병원,37.6364793,127.0699354,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQyNjEwMDIjNjEjJDEjJDgjJDgz,노원을지대학교병원,종합병원,37.6364793,127.0699354,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQyNjEwMDIjNjEjJDEjJDgjJDgz,노원을지대학교병원,종합병원,37.6364793,127.0699354,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ5OSQzNjEwMDIjNTEjJDEjJDYjJDgz,녹색병원,종합병원,37.5835731,127.0860738,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQzNjEwMDIjNDEjJDEjJDgjJDgz,당진종합병원,종합병원,36.9044002,126.6844489,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQzNjE4MzIjODEjJDEjJDIjJDgz,대구가톨릭대학교 칠곡가톨릭병원,종합병원,35.9348614,128.5493894,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQzNjE4MzIjODEjJDEjJDIjJDgz,대구가톨릭대학교 칠곡가톨릭병원,종합병원,35.9348614,128.5493894,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjNTEjJDEjJDYjJDgz,대구파티마병원,종합병원,35.8842611,128.6244071,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjNTEjJDEjJDYjJDgz,대구파티마병원,종합병원,35.8842611,128.6244071,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjNTEjJDEjJDYjJDgz,대구파티마병원,종합병원,35.8842611,128.6244071,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjE0ODEjNDEjJDEjJDQjJDgz,대동병원,종합병원,35.2042538,129.0802033,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQ0NjEwMDIjODEjJDEjJDYjJDgz,대림성모병원,종합병원,37.4906979,126.9072208,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQ0NjEwMDIjODEjJDEjJDYjJDgz,대아의료재단한도병원,종합병원,37.3340586,126.8076223,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQ0NjEwMDIjODEjJDEjJDYjJDgz,대아의료재단한도병원,종합병원,37.3340586,126.8076223,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQ0NjE0ODEjNDEjJDEjJDgjJDgz,대자인병원,종합병원,35.8459659,127.1534706,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQ0NjE0ODEjNDEjJDEjJDgjJDgz,대자인병원,종합병원,35.8459659,127.1534706,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQ0NjE0ODEjNDEjJDEjJDgjJDgz,대자인병원,종합병원,35.8459659,127.1534706,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjE4MzIjNDEjJDEjJDgjJDgz,대진의료재단 분당제생병원,종합병원,37.3882035,127.1217783,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjE4MzIjNDEjJDEjJDgjJDgz,대진의료재단 분당제생병원,종합병원,37.3882035,127.1217783,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjE4MzIjNDEjJDEjJDgjJDgz,대진의료재단 분당제생병원,종합병원,37.3882035,127.1217783,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjE0ODEjODEjJDEjJDIjJDgz,더블유병원,종합병원,35.8526313,128.5449481,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjE0ODEjODEjJDEjJDIjJDgz,더블유병원,종합병원,35.8526313,128.5449481,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE0ODEjNTEjJDEjJDYjJDgz,동국대학교의과대학경주병원,종합병원,35.8583076,129.1966582,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE0ODEjNTEjJDEjJDYjJDgz,동국대학교의과대학경주병원,종합병원,35.8583076,129.1966582,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE0ODEjNTEjJDEjJDYjJDgz,동국대학교의과대학경주병원,종합병원,35.8583076,129.1966582,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQ0NjE0ODEjNDEjJDEjJDgjJDgz,동국대학교일산불교병원,종합병원,37.6763969,126.8064233,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQ0NjE0ODEjNDEjJDEjJDgjJDgz,동국대학교일산불교병원,종합병원,37.6763969,126.8064233,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQ0NjE0ODEjNDEjJDEjJDgjJDgz,동국대학교일산불교병원,종합병원,37.6763969,126.8064233,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjEyMjIjNjEjJDEjJDAjJDgz,동남권원자력의학원원자력병원,종합병원,35.3214002,129.2435492,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjEwMDIjODEjJDEjJDYjJDgz,동래봉생병원,종합병원,35.1969224,129.0961355,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQyNjE0ODEjODEjJDEjJDYjJDgz,동아병원,종합병원,35.1348131,126.8999505,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjEyMjIjNjEjJDEjJDAjJDgz,드림종합병원,종합병원,35.8395584,128.5744911,암,방사선종양학과 전문의 1명 이상
+JDU4MTI3MSM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjODEjJDEjJDIjJDgz,메디필드한강병원,종합병원,37.2353957,127.2010803,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQ0NjEwMDIjNTEjJDEjJDYjJDgz,명지성모병원,종합병원,37.4938623,126.8992626,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjEyMjIjODEjJDEjJDIjJDgz,목포기독병원,종합병원,34.8045332,126.4205999,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjE4MzIjODEjJDEjJDYjJDgz,목포한국병원,종합병원,34.8093820,126.4162693,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjE4MzIjODEjJDEjJDYjJDgz,목포한국병원,종합병원,34.8093820,126.4162693,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQyNjE4MzIjNjEjJDEjJDAjJDgz,부민병원,종합병원,37.5568660,126.8509273,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE0ODEjODEjJDEjJDYjJDgz,부산광역시의료원,종합병원,35.1872821,129.0592351,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE0ODEjODEjJDEjJDYjJDgz,부산광역시의료원,종합병원,35.1872821,129.0592351,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEwMDIjNjEjJDEjJDQjJDgz,부산성모병원(재단법인 천주교부산교구유지재단),종합병원,35.1104571,129.1091250,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjNDEjJDEjJDgjJDgz,부천세종병원,종합병원,37.4809661,126.7913172,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjNDEjJDEjJDgjJDgz,부천세종병원,종합병원,37.4809661,126.7913172,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjNDEjJDEjJDgjJDgz,부천세종병원,종합병원,37.4809661,126.7913172,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjE4MzIjNDEjJDEjJDgjJDgz,부평세림병원,종합병원,37.5068720,126.7199858,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQyNjE4MzIjNDEjJDEjJDQjJDgz,비에스종합병원,종합병원,37.7360478,126.4859924,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjEwMDIjNDEjJDEjJDgjJDgz,비에이치에스한서병원,종합병원,35.1608800,129.1131037,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjEwMDIjNDEjJDEjJDgjJDgz,비에이치에스한서병원,종합병원,35.1608800,129.1131037,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQ0NjEwMDIjNDEjJDEjJDgjJDgz,빌리브세웅병원,종합병원,35.1960144,129.1082196,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEyMjIjNjEjJDEjJDQjJDgz,삼육부산병원,종합병원,35.1127675,129.0110653,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEyMjIjNjEjJDEjJDQjJDgz,삼육부산병원,종합병원,35.1127675,129.0110653,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjE0ODEjNDEjJDEjJDgjJDgz,삼육서울병원,종합병원,37.5879909,127.0653065,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjE0ODEjNDEjJDEjJDgjJDgz,삼육서울병원,종합병원,37.5879909,127.0653065,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjE0ODEjNDEjJDEjJDgjJDgz,삼육서울병원,종합병원,37.5879909,127.0653065,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술 포함
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjE4MzIjNDEjJDEjJDQjJDgz,삼일병원,종합병원,35.8324956,128.5535826,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQzNjE4MzIjODEjJDEjJDYjJDgz,상무병원,종합병원,35.1527509,126.8538803,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQzNjE4MzIjODEjJDEjJDYjJDgz,상무병원,종합병원,35.1527509,126.8538803,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQ0NjE0ODEjNDEjJDEjJDgjJDgz,서산중앙병원,종합병원,36.7810108,126.5034636,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQ0NjE0ODEjNDEjJDEjJDgjJDgz,서산중앙병원,종합병원,36.7810108,126.5034636,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjE0ODEjODEjJDEjJDYjJDgz,서울적십자병원,종합병원,37.5671805,126.9669974,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQzNjE0ODEjODEjJDEjJDYjJDgz,서울특별시보라매병원,종합병원,37.4934414,126.9239058,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQzNjE0ODEjODEjJDEjJDYjJDgz,서울특별시보라매병원,종합병원,37.4934414,126.9239058,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQzNjE0ODEjODEjJDEjJDYjJDgz,서울특별시보라매병원,종합병원,37.4934414,126.9239058,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQzNjE4MzIjNzEjJDEjJDgjJDgz,서울특별시서남병원,종합병원,37.5120195,126.8331531,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQzNjE4MzIjNzEjJDEjJDgjJDgz,서울특별시서남병원,종합병원,37.5120195,126.8331531,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQyNjEyMjIjNjEjJDEjJDgjJDgz,서울특별시서울의료원,종합병원,37.6132762,127.0978309,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQyNjEyMjIjNjEjJDEjJDgjJDgz,서울특별시서울의료원,종합병원,37.6132762,127.0978309,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQyNjEyMjIjNjEjJDEjJDgjJDgz,서울특별시서울의료원,종합병원,37.6132762,127.0978309,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjE4MzIjNDEjJDEjJDgjJDgz,성가롤로병원,종합병원,34.9647333,127.5437073,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjE4MzIjNDEjJDEjJDgjJDgz,성가롤로병원,종합병원,34.9647333,127.5437073,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjE4MzIjNDEjJDEjJDgjJDgz,성가롤로병원,종합병원,34.9647333,127.5437073,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQzNjEyMjIjNjEjJDEjJDAjJDgz,성남시의료원,종합병원,37.4449939,127.1390646,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQzNjEyMjIjNjEjJDEjJDAjJDgz,성남시의료원,종합병원,37.4449939,127.1390646,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQyNjEyMjIjODEjJDEjJDYjJDgz,성심의료재단강동성심병원,종합병원,37.5359971,127.1353780,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQyNjEyMjIjODEjJDEjJDYjJDgz,성심의료재단강동성심병원,종합병원,37.5359971,127.1353780,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQyNjEyMjIjODEjJDEjJDYjJDgz,성심의료재단강동성심병원,종합병원,37.5359971,127.1353780,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQ0NjEwMDIjNzEjJDEjJDgjJDgz,성애의료재단 성애병원,종합병원,37.5120274,126.9225003,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQzNjEwMDIjODEjJDEjJDYjJDgz,세란병원,종합병원,37.5751835,126.9574606,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjEwMDIjNjEjJDEjJDQjJDgz,세종충남대학교병원,종합병원,36.5195133,127.2579427,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjEwMDIjNjEjJDEjJDQjJDgz,세종충남대학교병원,종합병원,36.5195133,127.2579427,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjEwMDIjNjEjJDEjJDQjJDgz,세종충남대학교병원,종합병원,36.5195133,127.2579427,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQzNjE0ODEjNjEjJDEjJDgjJDgz,순천의료재단 성남정병원,종합병원,37.4398589,127.1290046,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQzNjE0ODEjNjEjJDEjJDgjJDgz,순천의료재단 성남정병원,종합병원,37.4398589,127.1290046,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjE0ODEjNDEjJDEjJDgjJDgz,순천향대학교 부속 구미병원,종합병원,36.1029182,128.3827377,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjE0ODEjNDEjJDEjJDgjJDgz,순천향대학교 부속 구미병원,종합병원,36.1029182,128.3827377,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEyMjIjNTEjJDEjJDIjJDgz,순천향대학교 부속 서울병원,종합병원,37.5338040,127.0042579,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEyMjIjNTEjJDEjJDIjJDgz,순천향대학교 부속 서울병원,종합병원,37.5338040,127.0042579,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEyMjIjNTEjJDEjJDIjJDgz,순천향대학교 부속 서울병원,종합병원,37.5338040,127.0042579,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQ0NjEwMDIjNjEjJDEjJDgjJDgz,순천향대학교부속 천안병원,종합병원,36.8027381,127.1358588,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQ0NjEwMDIjNjEjJDEjJDgjJDgz,순천향대학교부속 천안병원,종합병원,36.8027381,127.1358588,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQ0NjEwMDIjNjEjJDEjJDgjJDgz,순천향대학교부속 천안병원,종합병원,36.8027381,127.1358588,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjEyMjIjODEjJDEjJDIjJDgz,신가병원,종합병원,35.1774148,126.8296527,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQzNjE0ODEjNTEjJDEjJDIjJDgz,아산충무병원,종합병원,36.7792647,127.0198062,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEwMDIjNjEjJDEjJDAjJDgz,안동성소병원,종합병원,36.5672422,128.7228172,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEwMDIjNjEjJDEjJDAjJDgz,안동성소병원,종합병원,36.5672422,128.7228172,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQyNjEyMjIjNDEjJDEjJDgjJDgz,안성성모병원,종합병원,37.0062179,127.2709213,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjE4MzIjNDEjJDEjJDgjJDgz,여수전남병원,종합병원,34.7450673,127.7280181,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQyNjEyMjIjODEjJDEjJDIjJDgz,여천전남병원,종합병원,34.7690278,127.6542286,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjE4MzIjNDEjJDEjJDgjJDgz,연세대학교 의과대학 용인세브란스병원,종합병원,37.2708050,127.1485144,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjE4MzIjNDEjJDEjJDgjJDgz,연세대학교 의과대학 용인세브란스병원,종합병원,37.2708050,127.1485144,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjE4MzIjNDEjJDEjJDgjJDgz,연세대학교 의과대학 용인세브란스병원,종합병원,37.2708050,127.1485144,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입 포함
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjE0ODEjNDEjJDEjJDgjJDgz,영광종합병원,종합병원,35.2844615,126.4989779,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjEwMDIjNTEjJDEjJDYjJDgz,영주적십자병원,종합병원,36.8252688,128.6039024,암,방사선종양학과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjEwMDIjNTEjJDEjJDYjJDgz,영주적십자병원,종합병원,36.8252688,128.6039024,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQzNjEyMjIjNDEjJDEjJDgjJDgz,오산한국병원,종합병원,37.1412709,127.0753662,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQzNjEyMjIjNDEjJDEjJDgjJDgz,오산한국병원,종합병원,37.1412709,127.0753662,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQ0NjE0ODEjNjEjJDEjJDgjJDgz,운암한국병원,종합병원,35.1850041,126.8696693,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjEyMjIjNDEjJDEjJDgjJDgz,울산병원,종합병원,35.5462648,129.3231103,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQyNjE4MzIjNTEjJDEjJDIjJDgz,원광대학교 산본병원,종합병원,37.3594127,126.9336147,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ5OSQzNjEwMDIjODEjJDEjJDYjJDgz,의료법인 갈렌의료재단 박병원,종합병원,37.0482657,127.0570008,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjEwMDIjNjEjJDEjJDAjJDgz,의료법인 강릉동인병원,종합병원,37.7743500,128.9073500,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjEwMDIjNjEjJDEjJDAjJDgz,의료법인 강릉동인병원,종합병원,37.7743500,128.9073500,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQ0NjE0ODEjNTEjJDEjJDYjJDgz,의료법인 근원의료재단 경산중앙병원,종합병원,35.8088799,128.7401912,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQyNjEwMDIjNTEjJDEjJDYjJDgz,의료법인 남촌의료재단 시화병원,종합병원,37.3499313,126.7369422,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQyNjEwMDIjNTEjJDEjJDYjJDgz,의료법인 남촌의료재단 시화병원,종합병원,37.3499313,126.7369422,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQ0NjE0ODEjNDEjJDEjJDQjJDgz,의료법인 녹산의료재단동수원병원,종합병원,37.2780648,127.0345486,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQ0NjE0ODEjNDEjJDEjJDQjJDgz,의료법인 녹산의료재단동수원병원,종합병원,37.2780648,127.0345486,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDU4MTI3MSM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNDEjJDEjJDQjJDgz,의료법인 덕산의료재단 수원덕산병원,종합병원,37.2586103,126.9743992,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjE0ODEjODEjJDEjJDIjJDgz,의료법인 동강의료재단 동강병원,종합병원,35.5534260,129.3019631,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjE0ODEjODEjJDEjJDIjJDgz,의료법인 동강의료재단 동강병원,종합병원,35.5534260,129.3019631,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjE4MzIjNjEjJDEjJDQjJDgz,의료법인 록향의료재단 신천연합병원,종합병원,37.4445152,126.7894932,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQ0NjEwMDIjODEjJDEjJDYjJDgz,의료법인 명인의료재단 화홍병원,종합병원,37.2601268,126.9639084,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQ0NjEwMDIjODEjJDEjJDYjJDgz,의료법인 명인의료재단 화홍병원,종합병원,37.2601268,126.9639084,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEyMjIjNjEjJDEjJDQjJDgz,의료법인 명지의료재단 명지병원,종합병원,37.1634681,128.2339509,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEyMjIjNjEjJDEjJDQjJDgz,의료법인 명지의료재단 명지병원,종합병원,37.1634681,128.2339509,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 특수진료 심장질환자 재택의료 포함
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQyNjEwMDIjNDEjJDEjJDgjJDgz,의료법인 문병욱의료재단 진주고려병원,종합병원,35.1784915,128.0920864,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjEyMjIjNDEjJDEjJDQjJDgz,의료법인 박애의료재단 박애병원,종합병원,36.9930636,127.0890756,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEyMjIjNzEjJDEjJDgjJDgz,의료법인 백제병원,종합병원,36.1921929,127.0944739,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjE0ODEjNTEjJDEjJDIjJDgz,의료법인 서명의료재단 세명종합병원,종합병원,35.8263331,128.7371689,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjE0ODEjNTEjJDEjJDIjJDgz,의료법인 서명의료재단 세명종합병원,종합병원,35.8263331,128.7371689,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQyNjEwMDIjNDEjJDEjJDgjJDgz,의료법인 석경의료재단 센트럴병원,종합병원,37.3369084,126.7281267,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ5OSQyNjEwMDIjNjEjJDEjJDgjJDgz,의료법인 성수의료재단 인천백병원,종합병원,37.4817037,126.6458376,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQ0NjE0ODEjNTEjJDEjJDYjJDgz,의료법인 센텀의료재단 센텀종합병원,종합병원,35.1668299,129.1144194,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQ0NjEwMDIjNTEjJDEjJDIjJDgz,의료법인 송은의료재단 울산시티병원,종합병원,35.5828446,129.3590343,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ5OSQyNjEyMjIjNjEjJDEjJDAjJDgz,의료법인 양진의료재단 평택성모병원,종합병원,37.0084186,127.0743334,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQzNjEwMDIjNTEjJDEjJDYjJDgz,의료법인 영서의료재단 천안충무병원,종합병원,36.7974082,127.1314943,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQzNjEwMDIjNTEjJDEjJDYjJDgz,의료법인 영서의료재단 천안충무병원,종합병원,36.7974082,127.1314943,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 심장질환자 재택의료 포함
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjEwMDIjNDEjJDEjJDgjJDgz,의료법인 영훈의료재단 대전선병원,종합병원,36.3360669,127.4104139,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjEwMDIjNDEjJDEjJDgjJDgz,의료법인 영훈의료재단 대전선병원,종합병원,36.3360669,127.4104139,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술 포함
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEyMjIjNTEjJDEjJDIjJDgz,의료법인 오성의료재단 동군산병원,종합병원,35.9774829,126.7371620,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEyMjIjNTEjJDEjJDIjJDgz,의료법인 오성의료재단 동군산병원,종합병원,35.9774829,126.7371620,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjEwMDIjNjEjJDEjJDgjJDgz,의료법인 온그룹의료재단 온병원,종합병원,35.1574359,129.0504284,암,방사선종양학과 전문의 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjEwMDIjNjEjJDEjJDgjJDgz,의료법인 온그룹의료재단 온병원,종합병원,35.1574359,129.0504284,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjEwMDIjNjEjJDEjJDgjJDgz,의료법인 온그룹의료재단 온병원,종합병원,35.1574359,129.0504284,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQzNjEwMDIjNjEjJDEjJDgjJDgz,의료법인 원광의료재단 원광종합병원,종합병원,37.2101373,127.0081096,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQ0NjE0ODEjNjEjJDEjJDgjJDgz,의료법인 은성의료재단 좋은강안병원,종합병원,35.1500685,129.1106218,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQ0NjE0ODEjNjEjJDEjJDgjJDgz,의료법인 은성의료재단 좋은강안병원,종합병원,35.1500685,129.1106218,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQ0NjE0ODEjNjEjJDEjJDgjJDgz,의료법인 은성의료재단 좋은강안병원,종합병원,35.1500685,129.1106218,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjE0ODEjNDEjJDEjJDgjJDgz,의료법인 은성의료재단 좋은삼선병원,종합병원,35.1504160,129.0082463,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjE0ODEjNDEjJDEjJDgjJDgz,의료법인 은성의료재단 좋은삼선병원,종합병원,35.1504160,129.0082463,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjE4MzIjNTEjJDEjJDIjJDgz,의료법인 인당의료재단 부민병원,종합병원,35.2119276,129.0112115,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjE4MzIjNTEjJDEjJDIjJDgz,의료법인 인당의료재단 부민병원,종합병원,35.2119276,129.0112115,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjE0ODEjNDEjJDEjJDgjJDgz,의료법인 인당의료재단 해운대부민병원,종합병원,35.1614208,129.1556545,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjE0ODEjNDEjJDEjJDgjJDgz,의료법인 인당의료재단 해운대부민병원,종합병원,35.1614208,129.1556545,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjEwMDIjODEjJDEjJDYjJDgz,의료법인 인천사랑병원,종합병원,37.4622040,126.6807094,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjE0ODEjNjEjJDEjJDAjJDgz,의료법인 인화재단 한국병원,종합병원,36.6195069,127.4965379,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjE0ODEjNjEjJDEjJDAjJDgz,의료법인 인화재단 한국병원,종합병원,36.6195069,127.4965379,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQzNjEwMDIjNjEjJDEjJDAjJDgz,의료법인 일심의료재단 포천우리병원,종합병원,37.8274710,127.1481863,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEwMDIjNzEjJDEjJDgjJDgz,의료법인 정산의료재단 효성병원,종합병원,36.6244786,127.4953372,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjEyMjIjNTEjJDEjJDIjJDgz,의료법인 정안의료재단 중앙병원,종합병원,35.5322423,129.3046446,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjE4MzIjNDEjJDEjJDgjJDgz,의료법인 중앙의료재단 중앙병원,종합병원,33.4923256,126.4705290,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQyNjE4MzIjNzEjJDEjJDgjJDgz,의료법인 토마스의료재단 윌스기념병원,종합병원,37.2653229,127.0255443,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQyNjE4MzIjNzEjJDEjJDgjJDgz,의료법인 토마스의료재단 윌스기념병원,종합병원,37.2653229,127.0255443,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQyNjE0ODEjNTEjJDEjJDIjJDgz,의료법인 플러스의료재단 단원병원,종합병원,37.3002282,126.8134984,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQyNjE0ODEjNTEjJDEjJDIjJDgz,의료법인 플러스의료재단 단원병원,종합병원,37.3002282,126.8134984,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjNDEjJDEjJDQjJDgz,의료법인 혜인의료재단 한국병원,종합병원,33.5002330,126.5170620,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjNDEjJDEjJDQjJDgz,의료법인 혜인의료재단 한국병원,종합병원,33.5002330,126.5170620,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjE0ODEjNDEjJDEjJDgjJDgz,의료법인갑을의료재단 갑을장유병원,종합병원,35.2086652,128.8056169,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQzNjE0ODEjNTEjJDEjJDIjJDgz,의료법인대송의료재단 무안병원,종합병원,34.9916301,126.4893984,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQzNjEwMDIjNjEjJDEjJDgjJDgz,의료법인대인의료재단 다니엘종합병원,종합병원,37.5123067,126.7694764,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjEwMDIjNjEjJDEjJDgjJDgz,의료법인덕산의료재단김천제일병원,종합병원,36.1354003,128.1187923,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjEwMDIjNjEjJDEjJDgjJDgz,의료법인덕산의료재단김천제일병원,종합병원,36.1354003,128.1187923,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQ0NjE0ODEjNTEjJDEjJDIjJDgz,의료법인동신의료재단 동신병원,종합병원,37.5813323,126.9364251,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjE0ODEjNjEjJDEjJDgjJDgz,의료법인동춘의료재단문경제일병원,종합병원,36.5844400,128.1892251,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQyNjEyMjIjNjEjJDEjJDAjJDgz,의료법인루가의료재단 나은병원,종합병원,37.4890590,126.6797833,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQyNjEyMjIjNjEjJDEjJDAjJDgz,의료법인루가의료재단 나은병원,종합병원,37.4890590,126.6797833,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQzNjE4MzIjNjEjJDEjJDgjJDgz,의료법인명지의료재단명지병원,종합병원,37.6419949,126.8312622,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQzNjE4MzIjNjEjJDEjJDgjJDgz,의료법인명지의료재단명지병원,종합병원,37.6419949,126.8312622,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQzNjE4MzIjNjEjJDEjJDgjJDgz,의료법인명지의료재단명지병원,종합병원,37.6419949,126.8312622,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQzNjEwMDIjNjEjJDEjJDAjJDgz,의료법인목포구암의료재단 목포중앙병원,종합병원,34.8213916,126.4210249,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQzNjE4MzIjNjEjJDEjJDQjJDgz,의료법인백송의료재단 굿모닝병원,종합병원,36.9906277,127.1204113,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQzNjE4MzIjNjEjJDEjJDQjJDgz,의료법인백송의료재단 굿모닝병원,종합병원,36.9906277,127.1204113,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5MiQzNjE4MzIjNjEjJDEjJDQjJDgz,의료법인백송의료재단 굿모닝병원,종합병원,36.9906277,127.1204113,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQ0NjEwMDIjNTEjJDEjJDYjJDgz,의료법인서울효천의료재단 에이치플러스양지병원,종합병원,37.4841536,126.9325692,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQzNjE4MzIjNTEjJDEjJDIjJDgz,의료법인성광의료재단일산차병원,종합병원,37.6541317,126.7757374,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjE4MzIjNTEjJDEjJDYjJDgz,의료법인숭인의료재단 김해복음병원,종합병원,35.2306263,128.8931625,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjE4MzIjNTEjJDEjJDYjJDgz,의료법인숭인의료재단 김해복음병원,종합병원,35.2306263,128.8931625,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjNTEjJDEjJDIjJDgz,의료법인안동병원,종합병원,36.5467408,128.7010976,암,방사선종양학과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjNTEjJDEjJDIjJDgz,의료법인안동병원,종합병원,36.5467408,128.7010976,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjNTEjJDEjJDIjJDgz,의료법인안동병원,종합병원,36.5467408,128.7010976,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 심장질환자 재택의료 포함
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEwMDIjNjEjJDEjJDAjJDgz,의료법인영경의료재단전주병원,종합병원,35.8152645,127.1248245,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEwMDIjNjEjJDEjJDAjJDgz,의료법인영경의료재단전주병원,종합병원,35.8152645,127.1248245,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE4MzIjNjEjJDEjJDAjJDgz,의료법인영성의료재단 고흥종합병원,종합병원,34.6210654,127.2939625,암,방사선종양학과 전문의 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQ0NjE0ODEjODEjJDEjJDIjJDgz,의료법인영훈의료재단 유성선병원,종합병원,36.3751715,127.3249507,암,방사선종양학과 전문의 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQ0NjE0ODEjODEjJDEjJDIjJDgz,의료법인영훈의료재단 유성선병원,종합병원,36.3751715,127.3249507,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQ0NjE0ODEjODEjJDEjJDIjJDgz,의료법인영훈의료재단 유성선병원,종합병원,36.3751715,127.3249507,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQ0NjE0ODEjODEjJDEjJDYjJDgz,의료법인우리의료재단김포우리병원,종합병원,37.6323325,126.7107331,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQ0NjE0ODEjODEjJDEjJDYjJDgz,의료법인우리의료재단김포우리병원,종합병원,37.6323325,126.7107331,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQ0NjE0ODEjODEjJDEjJDYjJDgz,의료법인우리의료재단김포우리병원,종합병원,37.6323325,126.7107331,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQyNjE0ODEjNDEjJDEjJDgjJDgz,의료법인인봉의료재단뉴고려병원,종합병원,37.6409590,126.6602138,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQyNjE0ODEjNDEjJDEjJDgjJDgz,의료법인인봉의료재단뉴고려병원,종합병원,37.6409590,126.6602138,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjEyMjIjNTEjJDEjJDIjJDgz,의료법인정화의료재단 봉생기념병원,종합병원,35.1310265,129.0501907,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjEyMjIjNTEjJDEjJDIjJDgz,의료법인정화의료재단 봉생기념병원,종합병원,35.1310265,129.0501907,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQzNjEyMjIjNTEjJDEjJDIjJDgz,의료법인정화의료재단 봉생기념병원,종합병원,35.1310265,129.0501907,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 특수진료 심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQzNjE4MzIjNDEjJDEjJDQjJDgz,의료법인칠석의료재단사랑의병원,종합병원,37.3269353,126.8449325,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQyNjE4MzIjNDEjJDEjJDgjJDgz,의료법인풍산의료재단동부제일병원,종합병원,37.6007085,127.1090094,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjE4MzIjODEjJDEjJDYjJDgz,의료법인한마음의료재단하나병원,종합병원,36.6235046,127.4308626,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjE4MzIjODEjJDEjJDYjJDgz,의료법인한마음의료재단하나병원,종합병원,36.6235046,127.4308626,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEwMDIjNDEjJDEjJDgjJDgz,의료법인한성재단포항세명기독병원,종합병원,36.0177172,129.3622256,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEwMDIjNDEjJDEjJDgjJDgz,의료법인한성재단포항세명기독병원,종합병원,36.0177172,129.3622256,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjEwMDIjNDEjJDEjJDgjJDgz,의료법인한성재단포항세명기독병원,종합병원,36.0177172,129.3622256,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQ0NjEwMDIjODEjJDEjJDYjJDgz,의료법인한전의료재단 한일병원,종합병원,37.6461401,127.0291228,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQ0NjEwMDIjODEjJDEjJDYjJDgz,의료법인한전의료재단 한일병원,종합병원,37.6461401,127.0291228,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQ0NjEwMDIjODEjJDEjJDYjJDgz,의료법인한전의료재단 한일병원,종합병원,37.6461401,127.0291228,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQ0NjEwMDIjODEjJDEjJDIjJDgz,의료법인합포의료재단에스엠지연세병원,종합병원,35.1863148,128.5616013,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQ0NjEwMDIjODEjJDEjJDIjJDgz,의료법인합포의료재단에스엠지연세병원,종합병원,35.1863148,128.5616013,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQ0NjEwMDIjNjEjJDEjJDQjJDgz,의료법인환명의료재단 조은금강병원,종합병원,35.2623213,128.8615328,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQzNjEyMjIjODEjJDEjJDYjJDgz,이화여자대학교의과대학부속서울병원,종합병원,37.5572629,126.8362668,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQzNjEyMjIjODEjJDEjJDYjJDgz,이화여자대학교의과대학부속서울병원,종합병원,37.5572629,126.8362668,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQzNjEyMjIjODEjJDEjJDYjJDgz,이화여자대학교의과대학부속서울병원,종합병원,37.5572629,126.8362668,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEyMjIjODEjJDEjJDIjJDgz,익산병원,종합병원,35.9616504,126.9665158,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEyMjIjODEjJDEjJDIjJDgz,익산병원,종합병원,35.9616504,126.9665158,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjEwMDIjODEjJDEjJDIjJDgz,인제대학교 상계백병원,종합병원,37.6485408,127.0629909,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjEwMDIjODEjJDEjJDIjJDgz,인제대학교 상계백병원,종합병원,37.6485408,127.0629909,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjEwMDIjODEjJDEjJDIjJDgz,인제대학교 상계백병원,종합병원,37.6485408,127.0629909,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjE0ODEjODEjJDEjJDIjJDgz,인제대학교 해운대백병원,종합병원,35.1734430,129.1820130,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjE0ODEjODEjJDEjJDIjJDgz,인제대학교 해운대백병원,종합병원,35.1734430,129.1820130,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjE0ODEjODEjJDEjJDIjJDgz,인제대학교 해운대백병원,종합병원,35.1734430,129.1820130,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjEwMDIjNDEjJDEjJDgjJDgz,인제대학교일산백병원,종합병원,37.6742736,126.7503802,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjEwMDIjNDEjJDEjJDgjJDgz,인제대학교일산백병원,종합병원,37.6742736,126.7503802,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjEwMDIjNDEjJDEjJDgjJDgz,인제대학교일산백병원,종합병원,37.6742736,126.7503802,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEwMDIjNjEjJDEjJDQjJDgz,인천광역시의료원,종합병원,37.4787429,126.6687500,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEwMDIjNjEjJDEjJDQjJDgz,인천광역시의료원,종합병원,37.4787429,126.6687500,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNTEjJDEjJDYjJDgz,인천기독병원,종합병원,37.4712156,126.6321218,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNTEjJDEjJDYjJDgz,인천기독병원,종합병원,37.4712156,126.6321218,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ5OSQzNjEyMjIjNzEjJDEjJDgjJDgz,인천세종병원,종합병원,37.5324735,126.7368717,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ5OSQzNjEyMjIjNzEjJDEjJDgjJDgz,인천세종병원,종합병원,37.5324735,126.7368717,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술·경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQ0NjE0ODEjODEjJDEjJDIjJDgz,인천적십자병원,종합병원,37.4184945,126.6896544,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQyNjEyMjIjODEjJDEjJDYjJDgz,인천힘찬종합병원,종합병원,37.4011109,126.7147129,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjODEjJDEjJDIjJDgz,재단법인예수병원유지재단예수병원,종합병원,35.8143916,127.1332292,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjODEjJDEjJDIjJDgz,재단법인예수병원유지재단예수병원,종합병원,35.8143916,127.1332292,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjODEjJDEjJDIjJDgz,재단법인예수병원유지재단예수병원,종합병원,35.8143916,127.1332292,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 심장질환자 재택의료 포함
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjEwMDIjNjEjJDEjJDQjJDgz,전북특별자치도 군산의료원,종합병원,35.9549526,126.7117406,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjEwMDIjNjEjJDEjJDQjJDgz,전북특별자치도 군산의료원,종합병원,35.9549526,126.7117406,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjE0ODEjNzEjJDEjJDgjJDgz,전북특별자치도 남원의료원,종합병원,35.4318755,127.4073171,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkNiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjE0ODEjNzEjJDEjJDgjJDgz,전북특별자치도 남원의료원,종합병원,35.4318755,127.4073171,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQzNjEwMDIjNDEjJDEjJDQjJDgz,제일병원,종합병원,35.1794722,128.0902544,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjE0ODEjNTEjJDEjJDYjJDgz,제주대학교병원,종합병원,33.4672085,126.5452010,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjE0ODEjNTEjJDEjJDYjJDgz,제주대학교병원,종합병원,33.4672085,126.5452010,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjE0ODEjNTEjJDEjJDYjJDgz,제주대학교병원,종합병원,33.4672085,126.5452010,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 심장질환자 재택의료 포함
+JDQ4MTYyMiM4MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjEwMDIjNDEjJDEjJDQjJDgz,제주특별자치도 서귀포의료원,종합병원,33.2555354,126.5639215,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQ0NjEwMDIjNDEjJDEjJDQjJDgz,제주특별자치도 서귀포의료원,종합병원,33.2555354,126.5639215,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNTEjJDEjJDIjJDgz,제주한라병원,종합병원,33.4899609,126.4850403,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM4MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNTEjJDEjJDIjJDgz,제주한라병원,종합병원,33.4899609,126.4850403,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEyMjIjNTEjJDEjJDIjJDgz,제주한라병원,종합병원,33.4899609,126.4850403,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQzNjE0ODEjNjEjJDEjJDQjJDgz,중앙대학교광명병원,종합병원,37.4245975,126.8859100,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQzNjE0ODEjNjEjJDEjJDQjJDgz,중앙대학교광명병원,종합병원,37.4245975,126.8859100,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQzNjE0ODEjNTEjJDEjJDYjJDgz,차의과학대학교부속구미차병원,종합병원,36.1145324,128.3405414,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQzNjE0ODEjNTEjJDEjJDYjJDgz,차의과학대학교부속구미차병원,종합병원,36.1145324,128.3405414,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjEwMDIjNDEjJDEjJDgjJDgz,차의과학대학교분당차병원,종합병원,37.4102384,127.1254535,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjEwMDIjNDEjJDEjJDgjJDgz,차의과학대학교분당차병원,종합병원,37.4102384,127.1254535,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjEwMDIjNDEjJDEjJDgjJDgz,차의과학대학교분당차병원,종합병원,37.4102384,127.1254535,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ5OSQzNjE0ODEjNDEjJDEjJDgjJDgz,참조은병원,종합병원,37.4109626,127.2602540,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjE4MzIjNDEjJDEjJDgjJDgz,창원경상국립대학교병원,종합병원,35.1990872,128.7078463,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjE4MzIjNDEjJDEjJDgjJDgz,창원경상국립대학교병원,종합병원,35.1990872,128.7078463,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQyNjE4MzIjNDEjJDEjJDgjJDgz,창원경상국립대학교병원,종합병원,35.1990872,128.7078463,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입·심실 보조장치 포함
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEwMDIjODEjJDEjJDIjJDgz,창원파티마병원,종합병원,35.2372930,128.6459130,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEwMDIjODEjJDEjJDIjJDgz,창원파티마병원,종합병원,35.2372930,128.6459130,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEwMDIjODEjJDEjJDIjJDgz,창원파티마병원,종합병원,35.2372930,128.6459130,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQ0NjE0ODEjNzEjJDEjJDgjJDgz,창원한마음병원,종합병원,35.2379477,128.6990272,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQ0NjE0ODEjNzEjJDEjJDgjJDgz,창원한마음병원,종합병원,35.2379477,128.6990272,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQ0NjE0ODEjNzEjJDEjJDgjJDgz,창원한마음병원,종합병원,35.2379477,128.6990272,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjE0ODEjNDEjJDEjJDgjJDgz,첨단종합병원,종합병원,35.2211088,126.8453041,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjE0ODEjNDEjJDEjJDgjJDgz,첨단종합병원,종합병원,35.2211088,126.8453041,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEyMjIjNDEjJDEjJDgjJDgz,청주성모병원,종합병원,36.6737973,127.4856545,암,방사선종양학과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEyMjIjNDEjJDEjJDgjJDgz,청주성모병원,종합병원,36.6737973,127.4856545,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQzNjE0ODEjODEjJDEjJDIjJDgz,추병원,종합병원,37.7497898,127.0450722,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQ3IyQwMCQzNjE0ODEjODEjJDEjJDIjJDgz,추병원,종합병원,37.7497898,127.0450722,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEyMjIjNjEjJDEjJDAjJDgz,충청남도 서산의료원,종합병원,36.7755835,126.4652578,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEyMjIjNjEjJDEjJDAjJDgz,충청남도 서산의료원,종합병원,36.7755835,126.4652578,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEwMDIjNjEjJDEjJDgjJDgz,충청남도 천안의료원,종합병원,36.7754908,127.1794126,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQzNjEwMDIjNjEjJDEjJDgjJDgz,충청남도 천안의료원,종합병원,36.7754908,127.1794126,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjNDEjJDEjJDgjJDgz,충청남도 홍성의료원,종합병원,36.5992203,126.6743787,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjNDEjJDEjJDgjJDgz,충청남도 홍성의료원,종합병원,36.5992203,126.6743787,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 특수진료 심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEwMDIjNTEjJDEjJDIjJDgz,충청북도 청주의료원,종합병원,36.6402026,127.4730326,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjEwMDIjNTEjJDEjJDIjJDgz,충청북도 청주의료원,종합병원,36.6402026,127.4730326,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEyMjIjNTEjJDEjJDYjJDgz,충청북도 충주의료원,종합병원,36.9796506,127.9706116,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEyMjIjODEjJDEjJDIjJDgz,포항성모병원,종합병원,36.0159003,129.3399527,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEyMjIjODEjJDEjJDIjJDgz,포항성모병원,종합병원,36.0159003,129.3399527,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM4MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjEyMjIjODEjJDEjJDIjJDgz,포항성모병원,종합병원,36.0159003,129.3399527,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjNTEjJDEjJDIjJDgz,학교법인 가톨릭학원 가톨릭대학교 대전성모병원,종합병원,36.3230420,127.4201629,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjNTEjJDEjJDIjJDgz,학교법인 가톨릭학원 가톨릭대학교 대전성모병원,종합병원,36.3230420,127.4201629,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQyNjE4MzIjNTEjJDEjJDIjJDgz,학교법인 가톨릭학원 가톨릭대학교 대전성모병원,종합병원,36.3230420,127.4201629,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjE0ODEjNDEjJDEjJDgjJDgz,학교법인 을지학원 대전을지대학교병원,종합병원,36.3553098,127.3819888,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjE0ODEjNDEjJDEjJDgjJDgz,학교법인 을지학원 대전을지대학교병원,종합병원,36.3553098,127.3819888,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM2MSMkMSMkMiMkODkkMzgxMzUxIzExIyQxIyQzIyQ3OSQzNjE0ODEjNDEjJDEjJDgjJDgz,학교법인 을지학원 대전을지대학교병원,종합병원,36.3553098,127.3819888,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQyNjEwMDIjNDEjJDEjJDgjJDgz,학교법인 을지학원 의정부을지대학교병원,종합병원,37.7518185,127.0506997,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQyNjEwMDIjNDEjJDEjJDgjJDgz,학교법인 을지학원 의정부을지대학교병원,종합병원,37.7518185,127.0506997,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQyNjEwMDIjNDEjJDEjJDgjJDgz,학교법인 을지학원 의정부을지대학교병원,종합병원,37.7518185,127.0506997,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입 포함
+JDQ4MTAxMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjEwMDIjNDEjJDEjJDgjJDgz,학교법인)동의병원,종합병원,35.1698202,129.0765140,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE4MzIjNDEjJDEjJDgjJDgz,한국보훈복지의료공단 중앙보훈병원,종합병원,37.5303393,127.1478691,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE4MzIjNDEjJDEjJDgjJDgz,한국보훈복지의료공단 중앙보훈병원,종합병원,37.5303393,127.1478691,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ5OSQyNjE4MzIjNDEjJDEjJDgjJDgz,한국보훈복지의료공단 중앙보훈병원,종합병원,37.5303393,127.1478691,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입·심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ5OSQ0NjEwMDIjNjEjJDEjJDgjJDgz,한국원자력의학원원자력병원,종합병원,37.6288667,127.0824198,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjE0ODEjNTEjJDEjJDYjJDgz,한림대학교 강남성심병원,종합병원,37.4937262,126.9086527,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjE0ODEjNTEjJDEjJDYjJDgz,한림대학교 강남성심병원,종합병원,37.4937262,126.9086527,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQyIyQzIyQwMCQyNjE0ODEjNTEjJDEjJDYjJDgz,한림대학교 강남성심병원,종합병원,37.4937262,126.9086527,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술 포함
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQ0NjEwMDIjNzEjJDEjJDgjJDgz,한림대학교동탄성심병원,종합병원,37.2165141,127.0799502,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQ0NjEwMDIjNzEjJDEjJDgjJDgz,한림대학교동탄성심병원,종합병원,37.2165141,127.0799502,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQ0NjEwMDIjNzEjJDEjJDgjJDgz,한림대학교동탄성심병원,종합병원,37.2165141,127.0799502,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 대동맥판삽입·심실 보조장치·심장질환자 재택의료 포함
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjNjEjJDEjJDAjJDgz,한림대학교춘천성심병원,종합병원,37.8840791,127.7399592,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjNjEjJDEjJDAjJDgz,한림대학교춘천성심병원,종합병원,37.8840791,127.7399592,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjEyMjIjNjEjJDEjJDAjJDgz,한림대학교춘천성심병원,종합병원,37.8840791,127.7399592,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjE4MzIjNDEjJDEjJDQjJDgz,한림병원,종합병원,37.5320982,126.7343513,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjE4MzIjNDEjJDEjJDQjJDgz,한림병원,종합병원,37.5320982,126.7343513,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjE4MzIjNDEjJDEjJDQjJDgz,한림병원,종합병원,37.5320982,126.7343513,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM4MSMkMSMkOCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4OSQ0NjE0ODEjODEjJDEjJDYjJDgz,한마음병원,종합병원,33.4962868,126.5462386,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjE4MzIjODEjJDEjJDIjJDgz,한양대학교구리병원,종합병원,37.6012985,127.1324272,암,외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjE4MzIjODEjJDEjJDIjJDgz,한양대학교구리병원,종합병원,37.6012985,127.1324272,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQyNjE4MzIjODEjJDEjJDIjJDgz,한양대학교구리병원,종합병원,37.6012985,127.1324272,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 경피적 좌심방이 폐색술 포함
+JDQ4MTYyMiM4MSMkMSMkNCMkODkkMzgxMzUxIzExIyQxIyQzIyQ4MiQzNjEyMjIjNjEjJDEjJDQjJDgz,한일병원,종합병원,35.1669944,128.1285557,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjE4MzIjODEjJDEjJDIjJDgz,해남우리종합병원,종합병원,34.5842520,126.6465632,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM3MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQwMyQyNjE4MzIjODEjJDEjJDIjJDgz,해남우리종합병원,종합병원,34.5842520,126.6465632,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQyNjE0ODEjNTEjJDEjJDYjJDgz,현대병원,종합병원,37.7154268,127.1798820,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ3OSQyNjE0ODEjNTEjJDEjJDYjJDgz,현대병원,종합병원,37.7154268,127.1798820,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQzNjEyMjIjNDEjJDEjJDQjJDgz,현대유비스병원,종합병원,37.4615989,126.6429995,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQzNjEyMjIjNDEjJDEjJDQjJDgz,현대유비스병원,종합병원,37.4615989,126.6429995,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상; 특수진료 심장질환자 재택의료 포함
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQyNjEwMDIjNjEjJDEjJDQjJDgz,혜민병원,종합병원,37.5354079,127.0836246,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ2MiQyNjEwMDIjNjEjJDEjJDQjJDgz,혜민병원,종합병원,37.5354079,127.0836246,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTg4MSM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQxMyQyNjEyMjIjNTEjJDEjJDYjJDgz,홍익병원,종합병원,37.5284838,126.8636551,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQ0NjEwMDIjNzEjJDEjJDgjJDgz,효산의료재단 안양샘병원,종합병원,37.3935234,126.9243939,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQ0NjEwMDIjNzEjJDEjJDgjJDgz,효산의료재단 안양샘병원,종합병원,37.3935234,126.9243939,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQzIyQ3MiQ0NjEwMDIjNzEjJDEjJDgjJDgz,효산의료재단 안양샘병원,종합병원,37.3935234,126.9243939,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQyNjEyMjIjNzEjJDEjJDgjJDgz,효산의료재단 지샘병원,종합병원,37.3586720,126.9473164,암,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQyNjEyMjIjNzEjJDEjJDgjJDgz,효산의료재단 지샘병원,종합병원,37.3586720,126.9473164,뇌졸중,신경과·신경외과·응급의학과 전문의 각각 1명 이상
+JDQ4MTYyMiM1MSMkMSMkMCMkODkkMzgxMzUxIzExIyQxIyQ3IyQ4OSQyNjEyMjIjNzEjJDEjJDgjJDgz,효산의료재단 지샘병원,종합병원,37.3586720,126.9473164,급성심근경색,내과·응급의학과 전문의 각각 1명 이상; 특수진료 응급의료기관 포함; 심장혈관흉부외과 전문의 1명 이상

@@ -1,0 +1,4 @@
+﻿recommendation_type,hospital_name,hospital_type,capability_score,straight_distance_km,route_distance_km,route_duration_min,taxi_fare,toll_fare,final_utility,final_probability,is_pareto,selection_fallback,matched_reason,transport_cost
+접근성추천,의료법인대송의료재단 무안병원,종합병원,4.0,8.510347546039716,12.22,14.95,19700,0,0.01765984922903721,0.0780437026261613,True,False,신경과·신경외과·응급의학과 전문의 각각 1명 이상,19700
+원거리 전문역량 대안,재단법인아산사회복지재단 서울아산병원,상급종합,184.0,278.8065164335148,314.721,208.18333333333334,580100,0,0.004241395625595898,0.018743887030453092,True,False,신경과·신경외과·응급의학과 전문의 각각 1명 이상,580100
+종합추천,전남대학교병원,상급종합,82.0,37.87143540563796,45.474,45.0,75400,0,0.04031445273130417,0.1781605901439437,True,False,신경과·신경외과·응급의학과 전문의 각각 1명 이상,75400
