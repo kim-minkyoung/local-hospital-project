@@ -85,15 +85,20 @@ def prompt_for_missing_inputs(args: argparse.Namespace) -> None:
 
 
 def write_final_with_transport_cost(rows: list[dict[str, Any]], path: Path) -> None:
+    final_transport_cost = representative_transport_cost(rows)
     fieldnames = [
         *FINAL_COLUMNS,
         "transport_cost",
+        "final_transport_cost",
+        "final_transport_cost_basis",
     ]
     output_rows = []
     for row in rows:
         serialized = final_row(row)
         taxi_fare = float(serialized.get("taxi_fare") or 0)
         serialized["transport_cost"] = int(taxi_fare)
+        serialized["final_transport_cost"] = final_transport_cost
+        serialized["final_transport_cost_basis"] = "종합추천 교통비"
         output_rows.append(serialized)
 
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -198,6 +203,8 @@ def get_result(
             "longitude": float(longitude),
         },
         "recommendations": recommendations,
+        "final_transport_cost": representative_transport_cost(final_rows),
+        "final_transport_cost_basis": "종합추천 교통비",
         "representative_transport_cost": representative_transport_cost(final_rows),
         "representative_transport_cost_basis": "종합추천 교통비",
         "counts": {
@@ -239,6 +246,7 @@ def print_recommendations(rows: list[dict[str, Any]], final_output: str) -> None
             f"교통비: {format_money(transport_cost)} "
             f"(택시비 기준, 통행료 참고 {format_money(toll_fare)})"
         )
+    print(f"\n최종 교통비: {format_money(representative_transport_cost(rows))} (종합추천 교통비)")
     print(f"\n저장 완료: {final_output}")
 
 

@@ -1,0 +1,4 @@
+﻿recommendation_type,hospital_name,hospital_type,capability_score,straight_distance_km,route_distance_km,route_duration_min,taxi_fare,toll_fare,final_utility,final_probability,is_pareto,selection_fallback,matched_reason,transport_cost
+접근성추천,한림대학교춘천성심병원,종합병원,5.0,0.9436349115440631,1.592,6.383333333333334,5890,0,0.1189524256382128,0.2758131342607436,True,False,외과·병리과·핵의학과 전문의 각각 1명 이상,5890
+원거리 전문역량 대안,재단법인아산사회복지재단 서울아산병원,상급종합,370.0,67.44491553135664,86.42,74.36666666666666,88980,0,0.06672335814453764,0.15471040997700447,True,False,방사선종양학과 전문의 1명 이상; 외과·병리과·핵의학과 전문의 각각 1명 이상; 특수진료 조혈모세포이식 포함,88980
+종합추천,강원대학교병원,종합병원,14.0,1.4900562735349319,2.526,7.45,6730,0,0.24560326301478005,0.5694764557622519,True,False,방사선종양학과 전문의 1명 이상,6730
