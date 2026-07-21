@@ -3,8 +3,10 @@ import streamlit as st
 from streamlit_folium import st_folium
 
 from main import get_result
-from medical_stage.recommend_huff_hospitals import geocode_address, get_tmap_app_key
+from medical_stage.recommend_huff_hospitals import geocode_address, get_tmap_app_key, load_dotenv
 from premium import get_premium_rate
+
+load_dotenv()  # .env의 TMAP_API_KEY 등을 앱 시작 시점에 미리 읽어온다.
 
 st.set_page_config(page_title="지역안심 중대질병 교통비보험", page_icon="🏥", layout="wide")
 
@@ -31,9 +33,9 @@ st.markdown(
         padding: 6px 0 18px 0; border-bottom: 1px solid {BORDER}; margin-bottom: 20px;
     }}
     .app-header .badge {{
-        font-size: 12px; font-weight: 700; letter-spacing: .04em;
+        font-size: 16px; font-weight: 700; letter-spacing: .04em;
         color: {PRIMARY}; background: {PRIMARY_SOFT};
-        padding: 5px 10px; border-radius: 999px;
+        padding: 7px 14px; border-radius: 999px;
     }}
 
     /* st.container(border=True)가 만드는 카드를 둥글고 하얗게 */
@@ -45,7 +47,7 @@ st.markdown(
     }}
 
     .section-title {{
-        font-size: 15px; font-weight: 700; color: {INK}; margin-bottom: 4px;
+        font-size: 19px; font-weight: 700; color: {INK}; margin-bottom: 4px;
         display: flex; align-items: center; gap: 8px;
     }}
     .section-sub {{ font-size: 12.5px; color: {INK_SOFT}; margin-bottom: 14px; }}
@@ -107,14 +109,35 @@ def is_within_jeolla(lat, lng):
     )
 
 
+# 다음(카카오) 주소검색 팝업에서 선택한 주소가 쿼리 파라미터로 돌아오면 지오코딩 처리
+if "kakao_addr" in st.query_params:
+    selected_addr = st.query_params["kakao_addr"]
+    app_key = get_tmap_app_key()
+    if not app_key:
+        st.session_state.origin_error = "TMAP_API_KEY가 설정되어 있지 않습니다."
+    else:
+        try:
+            lon, lat = geocode_address(selected_addr, app_key, timeout=20)
+            if is_within_jeolla(lat, lon):
+                st.session_state.origin_lat = lat
+                st.session_state.origin_lng = lon
+                st.session_state.origin_label = selected_addr
+                st.session_state.origin_error = ""
+            else:
+                st.session_state.origin_error = "검색된 위치가 전라도 범위 밖입니다. 전라도 내 주소를 선택해 주세요."
+        except Exception as e:
+            st.session_state.origin_error = f"주소를 찾지 못했습니다: {e}"
+    st.query_params.clear()
+
+
 # ---------------------------------------------------------------------------
 # 헤더
 # ---------------------------------------------------------------------------
 st.markdown(
     """
     <div class="app-header">
-        <div class="badge">교통비보험 대시보드</div>
-        <h1 style="margin:0; font-size:22px;">지역안심 중대질병 교통비보험</h1>
+        <div class="badge">보험개발원 AI 프로젝트</div>
+        <h1 style="margin:0; font-size:30px;">지역안심 중대질병 교통비보험</h1>
     </div>
     """,
     unsafe_allow_html=True,
@@ -136,7 +159,7 @@ with left:
         search_col1, search_col2 = st.columns([4, 1])
         with search_col1:
             address_input = st.text_input(
-                "주소 검색", placeholder="예: 전남 함평군 함평읍 중앙길 200", label_visibility="collapsed"
+                "주소 직접 입력", placeholder="예: 전남 함평군 함평읍 중앙길 200", label_visibility="collapsed"
             )
         with search_col2:
             search_clicked = st.button("검색", width="stretch")
@@ -157,6 +180,37 @@ with left:
                             st.session_state.origin_label = address_input.strip()
                     except Exception as e:
                         st.error(f"주소를 찾지 못했습니다: {e}")
+
+        st.caption("또는 아래 버튼으로 다음(카카오) 주소검색 팝업을 이용하세요.")
+        st.iframe(
+            f"""
+            <script src="//t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
+            <button id="addr-search-btn" style="
+                width:100%; padding:10px 14px; border-radius:8px; border:1px solid {BORDER};
+                background:{PRIMARY}; color:#fff; font-weight:700; font-size:14px; cursor:pointer;
+            ">📮 주소검색 팝업 열기</button>
+            <script>
+            document.getElementById('addr-search-btn').addEventListener('click', function() {{
+                new daum.Postcode({{
+                    oncomplete: function(data) {{
+                        var addr = data.roadAddress || data.jibunAddress;
+                        try {{
+                            var target = window.opener || window.parent;
+                            var url = new URL(target.location.href);
+                            url.searchParams.set('kakao_addr', addr);
+                            target.location.href = url.toString();
+                        }} catch (e) {{ console.error(e); }}
+                        if (window.opener) {{ window.close(); }}
+                    }}
+                }}).open();
+            }});
+            </script>
+            """,
+            height=50,
+        )
+
+        if st.session_state.get("origin_error"):
+            st.warning(st.session_state.origin_error)
 
         m = folium.Map(
             location=[st.session_state.origin_lat, st.session_state.origin_lng],
@@ -193,6 +247,7 @@ with left:
             """,
             unsafe_allow_html=True,
         )
+        st.markdown("<div style='height:10px;'></div>", unsafe_allow_html=True)
 
 # ---------------------------------------------------------------------------
 # 오른쪽: 개인 정보 입력
@@ -272,6 +327,8 @@ if st.session_state.get("last_result"):
                         """,
                         unsafe_allow_html=True,
                     )
+
+            st.markdown("<div style='height:10px;'></div>", unsafe_allow_html=True)
 
         with st.container(border=True):
             st.markdown('<div class="section-title">🚕 대표 교통비</div>', unsafe_allow_html=True)
