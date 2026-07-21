@@ -193,6 +193,42 @@ def first_numeric(value: Any, keys: tuple[str, ...]) -> int | None:
     return None
 
 
+def extract_route_path(data: dict[str, Any]) -> list[list[float]]:
+    """Extract a Leaflet-ready ``[lat, lon]`` path from a TMAP route response."""
+    path: list[list[float]] = []
+
+    def append_line(coordinates: Any) -> None:
+        if not isinstance(coordinates, list):
+            return
+        for coordinate in coordinates:
+            if not isinstance(coordinate, list) or len(coordinate) < 2:
+                continue
+            try:
+                lon = float(coordinate[0])
+                lat = float(coordinate[1])
+            except (TypeError, ValueError):
+                continue
+            point = [lat, lon]
+            if not path or path[-1] != point:
+                path.append(point)
+
+    for feature in data.get("features", []):
+        if not isinstance(feature, dict):
+            continue
+        geometry = feature.get("geometry", {})
+        if not isinstance(geometry, dict):
+            continue
+        geometry_type = geometry.get("type")
+        coordinates = geometry.get("coordinates")
+        if geometry_type == "LineString":
+            append_line(coordinates)
+        elif geometry_type == "MultiLineString" and isinstance(coordinates, list):
+            for line in coordinates:
+                append_line(line)
+
+    return path
+
+
 def tmap_car_route(
     row: dict[str, str],
     *,
@@ -235,6 +271,7 @@ def tmap_car_route(
         "route_duration_min": duration_sec / 60,
         "taxi_fare": taxi_fare or 0,
         "toll_fare": toll_fare or 0,
+        "route_path": extract_route_path(data),
     }
 
 
@@ -414,6 +451,7 @@ def add_tmap_routes(
         row["route_duration_min"] = ""
         row["taxi_fare"] = ""
         row["toll_fare"] = ""
+        row["route_path"] = []
         row["final_utility"] = ""
         row["final_probability"] = ""
         row["is_pareto"] = ""
@@ -436,6 +474,7 @@ def add_tmap_routes(
             row["route_duration_min"] = route_row["route_duration_min"]
             row["taxi_fare"] = route_row["taxi_fare"]
             row["toll_fare"] = route_row["toll_fare"]
+            row["route_path"] = route_row["route_path"]
             row["tmap_success"] = True
             successful.append(row)
         except Exception as exc:  # noqa: BLE001 - keep all other selected hospitals.

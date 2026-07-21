@@ -214,7 +214,75 @@ with left:
             icon=folium.Icon(color="darkgreen", icon="flag"),
         ).add_to(m)
 
+        # 마지막 산출 결과가 현재 출발지의 결과일 때 실제 TMAP 택시 경로를 표시한다.
+        active_result = st.session_state.get("last_result")
+        result_origin = active_result.get("origin", {}) if active_result else {}
+        origin_matches_result = active_result and (
+            abs(float(result_origin.get("latitude", 0)) - st.session_state.origin_lat) < 1e-7
+            and abs(float(result_origin.get("longitude", 0)) - st.session_state.origin_lng) < 1e-7
+        )
+        route_colors = {
+            "접근성추천": "#2E6E8E",
+            "원거리 전문역량 대안": "#7A4FA3",
+            "종합추천": PRIMARY,
+        }
+        route_bounds = [[st.session_state.origin_lat, st.session_state.origin_lng]]
+
+        if origin_matches_result:
+            for rec in active_result.get("recommendations", []):
+                hospital_lat = float(rec.get("latitude") or 0)
+                hospital_lng = float(rec.get("longitude") or 0)
+                route_path = rec.get("route_path") or []
+                color = route_colors.get(rec.get("recommendation_type"), ACCENT)
+                route_label = f"{rec.get('recommendation_type', '추천')} · {rec.get('hospital_name', '병원')}"
+
+                if route_path:
+                    folium.PolyLine(
+                        route_path,
+                        color=color,
+                        weight=5,
+                        opacity=0.85,
+                        tooltip=route_label,
+                        bubbling_mouse_events=False,
+                    ).add_to(m)
+                    route_bounds.extend(route_path)
+
+                if hospital_lat and hospital_lng:
+                    folium.CircleMarker(
+                        [hospital_lat, hospital_lng],
+                        radius=8,
+                        color="#FFFFFF",
+                        weight=2,
+                        fill=True,
+                        fill_color=color,
+                        fill_opacity=1,
+                        tooltip=route_label,
+                        bubbling_mouse_events=False,
+                        popup=(
+                            f"<b>{rec.get('hospital_name', '')}</b><br>"
+                            f"{rec.get('route_duration_min', 0):.1f}분 · "
+                            f"{rec.get('route_distance_km', 0):.1f}km · "
+                            f"택시비 {rec.get('taxi_fare', 0):,}원"
+                        ),
+                    ).add_to(m)
+                    route_bounds.append([hospital_lat, hospital_lng])
+
+            if len(route_bounds) > 1:
+                m.fit_bounds(route_bounds, padding=(25, 25))
+
         map_state = st_folium(m, height=380, use_container_width=True, key="origin_map")
+
+        if origin_matches_result:
+            st.markdown(
+                """
+                <div style="display:flex; gap:16px; flex-wrap:wrap; margin:4px 0 8px; font-size:12px;">
+                    <span><b style="color:#2E6E8E;">━━</b> 접근성추천</span>
+                    <span><b style="color:#7A4FA3;">━━</b> 전문역량대안</span>
+                    <span><b style="color:#0F5B4C;">━━</b> 종합추천</span>
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
 
         if map_state and map_state.get("last_clicked"):
             clicked_lat = map_state["last_clicked"]["lat"]
@@ -268,6 +336,7 @@ if calculate:
             st.session_state.last_gender = gender
             st.session_state.last_disease = disease
             st.session_state.last_age = age
+            st.rerun()
         except Exception as e:
             st.error(f"병원 추천 계산 중 오류가 발생했습니다: {e}")
             st.stop()
