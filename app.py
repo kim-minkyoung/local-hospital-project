@@ -1,5 +1,8 @@
+from pathlib import Path
+
 import folium
 import streamlit as st
+import streamlit.components.v1 as components
 from streamlit_folium import st_folium
 
 from main import get_result
@@ -7,6 +10,11 @@ from medical_stage.recommend_huff_hospitals import geocode_address, get_tmap_app
 from premium import get_premium_rate
 
 load_dotenv()  # .env의 TMAP_API_KEY 등을 앱 시작 시점에 미리 읽어온다.
+
+kakao_address_search = components.declare_component(
+    "kakao_address_search",
+    path=Path(__file__).parent / "components" / "kakao_address_search",
+)
 
 st.set_page_config(page_title="지역안심 중대질병 교통비보험", page_icon="🏥", layout="wide")
 
@@ -98,6 +106,8 @@ if "origin_lng" not in st.session_state:
     st.session_state.origin_lng = 126.80
 if "origin_label" not in st.session_state:
     st.session_state.origin_label = ""
+if "address_input_value" not in st.session_state:
+    st.session_state.address_input_value = ""
 
 JEOLLA_BOUNDS = {"lat_min": 33.8, "lat_max": 36.4, "lng_min": 125.8, "lng_max": 127.9}
 
@@ -109,9 +119,9 @@ def is_within_jeolla(lat, lng):
     )
 
 
-# 다음(카카오) 주소검색 팝업에서 선택한 주소가 쿼리 파라미터로 돌아오면 지오코딩 처리
-if "kakao_addr" in st.query_params:
-    selected_addr = st.query_params["kakao_addr"]
+def apply_selected_address(selected_addr):
+    """카카오에서 선택한 주소를 입력란에 반영하고 출발지 좌표를 갱신한다."""
+    st.session_state.address_input_value = selected_addr
     app_key = get_tmap_app_key()
     if not app_key:
         st.session_state.origin_error = "TMAP_API_KEY가 설정되어 있지 않습니다."
@@ -127,6 +137,15 @@ if "kakao_addr" in st.query_params:
                 st.session_state.origin_error = "검색된 위치가 전라도 범위 밖입니다. 전라도 내 주소를 선택해 주세요."
         except Exception as e:
             st.session_state.origin_error = f"주소를 찾지 못했습니다: {e}"
+
+
+# 컴포넌트는 입력 위젯보다 뒤에서 값을 반환하므로, 다음 실행의 위젯 생성 전에 처리한다.
+if "pending_kakao_addr" in st.session_state:
+    apply_selected_address(st.session_state.pop("pending_kakao_addr"))
+
+# 기존 쿼리 파라미터 링크도 계속 지원한다.
+if "kakao_addr" in st.query_params:
+    apply_selected_address(st.query_params["kakao_addr"])
     st.query_params.clear()
 
 
@@ -159,7 +178,10 @@ with left:
         search_col1, search_col2 = st.columns([4, 1])
         with search_col1:
             address_input = st.text_input(
-                "주소 직접 입력", placeholder="예: 전남 함평군 함평읍 중앙길 200", label_visibility="collapsed"
+                "주소 직접 입력",
+                placeholder="예: 전남 함평군 함평읍 중앙길 200",
+                label_visibility="collapsed",
+                key="address_input_value",
             )
         with search_col2:
             search_clicked = st.button("검색", width="stretch")
@@ -182,32 +204,16 @@ with left:
                         st.error(f"주소를 찾지 못했습니다: {e}")
 
         st.caption("또는 아래 버튼으로 다음(카카오) 주소검색 팝업을 이용하세요.")
-        st.iframe(
-            f"""
-            <script src="//t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
-            <button id="addr-search-btn" style="
-                width:100%; padding:10px 14px; border-radius:8px; border:1px solid {BORDER};
-                background:{PRIMARY}; color:#fff; font-weight:700; font-size:14px; cursor:pointer;
-            ">📮 주소검색 팝업 열기</button>
-            <script>
-            document.getElementById('addr-search-btn').addEventListener('click', function() {{
-                new daum.Postcode({{
-                    oncomplete: function(data) {{
-                        var addr = data.roadAddress || data.jibunAddress;
-                        try {{
-                            var target = window.opener || window.parent;
-                            var url = new URL(target.location.href);
-                            url.searchParams.set('kakao_addr', addr);
-                            target.location.href = url.toString();
-                        }} catch (e) {{ console.error(e); }}
-                        if (window.opener) {{ window.close(); }}
-                    }}
-                }}).open();
-            }});
-            </script>
-            """,
-            height=50,
+        kakao_selection = kakao_address_search(
+            default=None,
+            key="kakao_address_search",
         )
+        if kakao_selection:
+            selection_id = kakao_selection.get("selectionId")
+            if selection_id != st.session_state.get("last_kakao_selection_id"):
+                st.session_state.last_kakao_selection_id = selection_id
+                st.session_state.pending_kakao_addr = kakao_selection["address"]
+                st.rerun()
 
         if st.session_state.get("origin_error"):
             st.warning(st.session_state.origin_error)
