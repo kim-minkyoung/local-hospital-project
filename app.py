@@ -109,16 +109,6 @@ if "origin_label" not in st.session_state:
 if "address_input_value" not in st.session_state:
     st.session_state.address_input_value = ""
 
-JEOLLA_BOUNDS = {"lat_min": 33.8, "lat_max": 36.4, "lng_min": 125.8, "lng_max": 127.9}
-
-
-def is_within_jeolla(lat, lng):
-    return (
-        JEOLLA_BOUNDS["lat_min"] <= lat <= JEOLLA_BOUNDS["lat_max"]
-        and JEOLLA_BOUNDS["lng_min"] <= lng <= JEOLLA_BOUNDS["lng_max"]
-    )
-
-
 def apply_selected_address(selected_addr):
     """카카오에서 선택한 주소를 입력란에 반영하고 출발지 좌표를 갱신한다."""
     st.session_state.address_input_value = selected_addr
@@ -128,13 +118,10 @@ def apply_selected_address(selected_addr):
     else:
         try:
             lon, lat = geocode_address(selected_addr, app_key, timeout=20)
-            if is_within_jeolla(lat, lon):
-                st.session_state.origin_lat = lat
-                st.session_state.origin_lng = lon
-                st.session_state.origin_label = selected_addr
-                st.session_state.origin_error = ""
-            else:
-                st.session_state.origin_error = "검색된 위치가 전라도 범위 밖입니다. 전라도 내 주소를 선택해 주세요."
+            st.session_state.origin_lat = lat
+            st.session_state.origin_lng = lon
+            st.session_state.origin_label = selected_addr
+            st.session_state.origin_error = ""
         except Exception as e:
             st.session_state.origin_error = f"주소를 찾지 못했습니다: {e}"
 
@@ -171,7 +158,7 @@ with left:
     with st.container(border=True):
         st.markdown('<div class="section-title">📍 위치 검색 / 선택</div>', unsafe_allow_html=True)
         st.markdown(
-            '<div class="section-sub">주소를 검색하거나, 지도를 직접 클릭해 출발지를 지정하세요. (전라도 내부만 가능)</div>',
+            '<div class="section-sub">주소를 검색하거나, 지도를 직접 클릭해 전국 어디서나 출발지를 지정하세요.</div>',
             unsafe_allow_html=True,
         )
 
@@ -194,12 +181,10 @@ with left:
                 with st.spinner("주소를 찾는 중입니다..."):
                     try:
                         lon, lat = geocode_address(address_input.strip(), app_key, timeout=20)
-                        if not is_within_jeolla(lat, lon):
-                            st.warning("검색된 위치가 전라도 범위 밖입니다. 전라도 내 주소를 입력해 주세요.")
-                        else:
-                            st.session_state.origin_lat = lat
-                            st.session_state.origin_lng = lon
-                            st.session_state.origin_label = address_input.strip()
+                        st.session_state.origin_lat = lat
+                        st.session_state.origin_lng = lon
+                        st.session_state.origin_label = address_input.strip()
+                        st.session_state.origin_error = ""
                     except Exception as e:
                         st.error(f"주소를 찾지 못했습니다: {e}")
 
@@ -235,13 +220,11 @@ with left:
             clicked_lat = map_state["last_clicked"]["lat"]
             clicked_lng = map_state["last_clicked"]["lng"]
             if (clicked_lat, clicked_lng) != (st.session_state.origin_lat, st.session_state.origin_lng):
-                if is_within_jeolla(clicked_lat, clicked_lng):
-                    st.session_state.origin_lat = clicked_lat
-                    st.session_state.origin_lng = clicked_lng
-                    st.session_state.origin_label = "지도에서 선택한 위치"
-                    st.rerun()
-                else:
-                    st.warning("전라도 범위 밖입니다. 전라도 내부를 클릭해 주세요.")
+                st.session_state.origin_lat = clicked_lat
+                st.session_state.origin_lng = clicked_lng
+                st.session_state.origin_label = "지도에서 선택한 위치"
+                st.session_state.origin_error = ""
+                st.rerun()
 
         st.markdown(
             f"""
